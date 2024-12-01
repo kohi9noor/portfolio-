@@ -11,5 +11,9 @@ export default defineConfig({
   site: "https://kohinoornimes",
   integrations: [tailwind()],
   output: "static",
-  adapter: vercel(),
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 });
