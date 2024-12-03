@@ -5,6 +5,8 @@ dateStart: "3/27/2024"
 dateEnd: "8/27/2024"
 ---
 
-In this internship at Curious Connect, I worked on real-time communication technologies and developed scalable video conferencing solutions. My main **focus** was building a **product** that could handle **multiple conferences** at the same time, with many participants.
-
-I learned a lot about **WebRTC** and researched ways to scale it using **SFU** (Selective Forwarding Unit) and **MCU** (Multipoint Control Unit) methods. I also worked with Mediasoup, a Node.js library for SFU, to make our **video conferencing** system more **efficient** and able to **support more users**.
+- **Enhanced the efficiency** of a **resume parser** by integrating **Redis** for optimized data caching and retrieval, significantly **reducing processing time**.
+- Leveraged the **Gemini API** to enrich resume parsing capabilities, enabling **intelligent extraction** and categorization of candidate profiles.
+- **Designed and implemented a scalable architecture** for handling **large volumes of resume data**, ensuring **real-time parsing performance**.
+- Researched and implemented **real-time communication technologies** using **WebRTC** and **Selective Forwarding Unit (SFU)** for efficient media streaming.
+- Utilized **Mediasoup**, a **Node.js library**, to develop a **scalable video conferencing solution** capable of supporting **multiple simultaneous conferences** with numerous participants.
